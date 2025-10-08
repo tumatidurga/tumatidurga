@@ -1,3 +1,7 @@
+<p>
+  <img src="github-header-banner" src="https://github.com/user-attachments/assets/3358acf0-345f-4a9f-b7b0-23decb7feb15" />
+
+</p>
 <h1 align="center">Hi 👋, I'm Tumati Durga</h1>
 <h3 align="center">Exploring code,Learning Everyday</h3>
 
